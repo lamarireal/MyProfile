@@ -1,6 +1,6 @@
 First Version:
 
-1. Created simple interface with my Foto, Descricion and Capabilities
+1. Created simple interface with my Foto, Description and Capabilities
 
 Second Version:
 
